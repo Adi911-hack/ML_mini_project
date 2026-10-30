@@ -1,0 +1,6 @@
+id,assumed_transcript,recording_file,reference_duration_s,synthesized_duration_s,duration_ratio_synth_to_reference,synthesized_rms,reference_rms,valid_synthesized_wav
+1,"Hello, my name is Spoorthy.",recording_1.wav,5.483,1.2,0.219,0.03986,0.00897,True
+2,Machine learning is changing the world.,recording_2.wav,5.824,1.2,0.206,0.05244,0.01014,True
+3,Today is a beautiful day.,recording_3.wav,4.288,1.2,0.28,0.04801,0.01065,True
+4,Artificial intelligence can generate speech.,recording_4.wav,4.843,1.2,0.248,0.04576,0.00891,True
+5,This is a test of the Colatron project.,recording_5.wav,5.675,1.2,0.211,0.04564,0.0103,True
