@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+colatron_custom_eval/recordings/
+*voice*.wav
+ml_audios.zip
