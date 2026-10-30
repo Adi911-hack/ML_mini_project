@@ -1,0 +1,8 @@
+{
+  "count": 5,
+  "evaluation": "leave-one-out duration prediction (four recordings used to train, one held out each fold)",
+  "baseline_mae_seconds": 4.023,
+  "calibrated_mae_seconds": 0.697,
+  "relative_mae_reduction_percent": 82.7,
+  "limitations": "Only output duration improved. Speech intelligibility, content accuracy, MOS, and published Seq2Seq reproduction are not established. The duration estimator uses a tiny custom dataset."
+}
